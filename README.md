@@ -39,13 +39,13 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Non-transitive Hashing with Latent Similarity Componets.**
 *Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://cuip.thumedialab.com/papers/KDD-NonTransitiveHashing.pdf)
 
-1. **GraRep: Learning Graph Representations with Global Structural Information.**
+1. *GraRep: Learning Graph Representations with Global Structural Information.*
 *Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
 
 1. **LINE: Large-scale Information Network Embedding.**
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.*  WWW 2015. [paper](https://arxiv.org/pdf/1503.03578.pdf) [code](https://github.com/tangjianpku/LINE)
 
-1. **Network Representation Learning with Rich Text Information.**
+1. *Network Representation Learning with Rich Text Information.*
 *Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.*  IJCAI 2015. [paper](http://thunlp.org/~yangcheng/publications/ijcai15.pdf) [code](https://github.com/thunlp/tadw)
 
 1. **PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks.**
@@ -63,7 +63,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Revisiting Semi-supervised Learning with Graph Embeddings.**
 *Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
 
-1. **node2vec: Scalable Feature Learning for Networks.**
+1. *node2vec: Scalable Feature Learning for Networks.*
 *Aditya Grover, Jure Leskovec.*  KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf) [code](https://github.com/aditya-grover/node2vec)
 
 1. **Max-Margin DeepWalk: Discriminative Learning of Network Representation.**
@@ -84,7 +84,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://cuip.thumedialab.com/papers/NE-Community.pdf)
 
-1. **Semi-supervised Classification with Graph Convolutional Networks.**
+1. *Semi-supervised Classification with Graph Convolutional Networks.*
 *Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/tkipf/gcn)
 
 1. **CANE: Context-Aware Network Embedding for Relation Modeling.**
@@ -377,6 +377,6 @@ This section contains promising recent preprints.
 2. **Relational recurrent neural networks.**
 *Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.* [paper](https://arxiv.org/pdf/1806.01822.pdf)
 
-3. **MILE: A Multi-Level Framework for Scalable Graph Embedding.**
+3. *MILE: A Multi-Level Framework for Scalable Graph Embedding.*
 *Jiongqian Liang, Saket Gurukar, Srinivasan Parthasarathy.* [paper](https://arxiv.org/pdf/1802.09612.pdf) 
 
