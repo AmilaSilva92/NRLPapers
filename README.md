@@ -30,7 +30,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 ### Journal and Conference papers:
 
-1. **DeepWalk: Online Learning of Social Representations.**
+1. *DeepWalk: Online Learning of Social Representations.*
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
 
 1. **Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks.**
